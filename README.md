@@ -1,3 +1,3 @@
 # Hello World
 
-I make some changes and i forgot the dot.
+This repo is for Hello World and i'm not trying a new git command here.
